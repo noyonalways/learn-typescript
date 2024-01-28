@@ -28,6 +28,6 @@
 - Install Node.js in your machine
 - Install TypeScript compiler
 
-```npm
+```sh
 npm i -g typescript
 ```
