@@ -21,12 +21,17 @@
 
 ### Table of Contents:
 
-| Contents                                                                                                                    |
-| :-------------------------------------------------------------------------------------------------------------------------- |
-| [Welcome TypeScript](./markdowns/ts-welcome.md#welcome-typescript)                                                          |
-| [TS Introduction](./markdowns/ts-introduction.md#ts-introduction)                                                           |
-| [TypeScript Project Folder Structure](./markdowns/ts-project-folder-structure.md#typescript-project-folder-structure)       |
-| [TypeScript Node Express App Structure](./markdowns/ts-node-express-app-structure.md#typescript-node-express-app-structure) |
+| Contents                                               |
+| :----------------------------------------------------- |
+| [Welcome TypeScript](./markdowns/docs/ts-welcome.md)   |
+| [TS Introduction](./markdowns/docs/ts-introduction.md) |
+
+<br>
+
+| App Structure                                                                                          |
+| :----------------------------------------------------------------------------------------------------- |
+| [TypeScript Project Folder Structure](./markdowns/folder-structure/ts-project-folder-structure.md)     |
+| [TypeScript Node Express App Structure](./markdowns/folder-structure/ts-node-express-app-structure.md) |
 
 ### Connect with me
 
