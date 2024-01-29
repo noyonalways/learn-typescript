@@ -21,10 +21,11 @@
 
 ### Table of Contents:
 
-| Contents                                               |
-| :----------------------------------------------------- |
-| [Welcome TypeScript](./markdowns/docs/ts-welcome.md)   |
-| [TS Introduction](./markdowns/docs/ts-introduction.md) |
+| Contents                                                            |
+| :------------------------------------------------------------------ |
+| [Welcome TypeScript](./markdowns/docs/ts-welcome.md)                |
+| [TS Introduction](./markdowns/docs/ts-introduction.md)              |
+| [TS Get Started & Installation](./markdowns/docs/ts-get-started.md) |
 
 <br>
 
@@ -42,13 +43,13 @@
   <a target="_blank" href="https://instagram.com/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/company/noyonalways/">
+  <a target="_blank" href="https://linkedin.com/company/noyonalways/">
     <img src="https://img.shields.io/badge/-noyonalways-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a target="_blank" href="mailto:noyonalways+github@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a target="_blank" href="https://www.behance.net/noyonalways">
+  <a target="_blank" href="https://behance.net/noyonalways">
     <img src="https://img.shields.io/badge/-noyonalways-gray?style=flat-square&logo=Behance&logoColor=white" alt="YouTube Badge">
   </a>
   <a target="_blank" href="https://dev.to/noyonalways">
