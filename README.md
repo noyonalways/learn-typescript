@@ -1,6 +1,6 @@
 # Learn TypeScript
 
-### What is TypeScript
+## What is TypeScript
 
 - TypeScript is the superset of JavaScript created by Microsoft
 - Allows static strict typing
@@ -8,26 +8,10 @@
 - Supports modern features (arrow functions, let, const)
 - Based on the .NET harmony specification
 
-### What's wrong with JavaScript
+### Table of Contents:
 
-- Not suitable for large applications
-- Lacks string typing
-- Weird inheritance, unfamiliar syntax
-- Only errors during runtime
-- Suffers type coercion
+- [Welcome TypeScript](./markdowns/ts-welcome.md#welcome-typescript)
+- [TS Introduction](./markdowns/ts-introduction.md#ts-introduction)
+- [TypeScript Project Folder Structure](./markdowns/ts-project-folder-structure.md#typescript-project-folder-structure)
 
-### Benefits of TypeScript
-
-- TypeScript = JavaScript
-- Compiles to JavaScript - runs everywhere
-- Familiar OOP Programming
-- New Features work everywhere
-
-### Installing TypeScript
-
-- Install Node.js in your machine
-- Install TypeScript compiler
-
-```sh
-npm i -g typescript
-```
+---
