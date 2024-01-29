@@ -10,9 +10,9 @@ TypeScript allows specifying the types of data being passed around within the co
 
 For example, TypeScript will report an error when passing a string into a function that expects a number. JavaScript will not.
 
-<div style='background: #9e5851'>
+<p style='background: #9e5851; color: #fff; padding: .5rem'>
 TypeScript uses compile time type checking. Which means it checks if the specified types match before running the code, not while running the code.
-</div>
+</p>
 
 ## How do I use TypeScript?
 
