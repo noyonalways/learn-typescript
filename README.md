@@ -1,7 +1,10 @@
-# Learn TypeScript
+<h1 align='center'>Learn TypeScript</h1>
+
+<img src='https://i.ibb.co/MC8g3q4/typescript-banner.png' width='100%' alt='banner-image'>
 
 <div align="center" style='margin: 5px 0px'>
    <img src="https://img.shields.io/github/contributors/noyonalways/learn-typescript" alt="github-contributors" >
+   <img src="https://img.shields.io/github/stars/noyonalways/learn-typescript?style=flat" alt="github-repo-stars">
    <img src='https://img.shields.io/github/forks/noyonalways/learn-typescript?style=flat' alt='forks-repo'>
    <img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
    <img src='https://img.shields.io/github/directory-file-count/noyonalways/learn-typescript' alt='repo-files-count'>

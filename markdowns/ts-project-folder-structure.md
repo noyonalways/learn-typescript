@@ -1,16 +1,16 @@
 ## TypeScript Project Folder Structure
 
-```sh
+```
 my-project
-|-- src
-| |-- index.ts
-|-- dist
-| |-- index.js
-|-- node_modules
-|-- package.json
-|-- tsconfig.json
-|-- .gitignore
-|-- README.md
+|--src
+| |--index.ts
+|-dist
+| |--index.js
+|--node_modules
+|--package.json
+|--tsconfig.json
+|--.gitignore
+|--README.md
 ```
 
 ## Scripts
