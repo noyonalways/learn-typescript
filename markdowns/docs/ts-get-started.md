@@ -4,7 +4,9 @@
 
 TypeScript is transpiled into JavaScript using a compiler.
 
+<p style='background: #51896c; color: #fff; padding: .5rem'>
 TypeScript being converted into JavaScript means it runs anywhere that JavaScript runs!
+</p>
 
 ## 1. Installing the Compiler
 

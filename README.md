@@ -26,6 +26,7 @@
 | [Welcome TypeScript](./markdowns/docs/ts-welcome.md)                |
 | [TS Introduction](./markdowns/docs/ts-introduction.md)              |
 | [TS Get Started & Installation](./markdowns/docs/ts-get-started.md) |
+| [TS Simple Types](./markdowns/docs/ts-simple-types.md)              |
 
 <br>
 
