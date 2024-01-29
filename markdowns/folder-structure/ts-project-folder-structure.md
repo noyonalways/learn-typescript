@@ -17,10 +17,10 @@ my-project
 
 ```json
 {
-	"scripts": {
-		"start": "tsc -w && node dist/index.js",
-		"dev": "nodemon -e ts -w src -x ts-node src/index.ts",
-		"build": "tsc"
-	}
+  "scripts": {
+    "start": "tsc -w && node dist/index.js",
+    "dev": "nodemon -e ts -w src -x ts-node src/index.ts",
+    "build": "tsc"
+  }
 }
 ```

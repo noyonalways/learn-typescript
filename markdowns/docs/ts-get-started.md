@@ -72,16 +72,16 @@ Here is an example of more things you could add to the tsconfig.json file:
 
 ```json
 {
-	"compilerOptions": {
-		"target": "ES2016",
-		"module": "CommonJS",
-		"moduleResolution": "node",
-		"baseUrl": "./src",
-		"outDir": "./dist",
-		"sourceMap": true,
-		"noImplicitAny": true
-	},
-	"include": ["src/**/*"]
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*"]
 }
 ```
 
