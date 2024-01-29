@@ -1,9 +1,5 @@
 # TS Introduction
 
-<style>
-rb { background: #9e5851; padding: .4rem;}
-</style>
-
 ## Why should I use TypeScript?
 
 JavaScript is a loosely typed language. It can be difficult to understand what types of data are being passed around in JavaScript.
@@ -14,9 +10,9 @@ TypeScript allows specifying the types of data being passed around within the co
 
 For example, TypeScript will report an error when passing a string into a function that expects a number. JavaScript will not.
 
-<rb>
+<div style='background: #9e5851'>
 TypeScript uses compile time type checking. Which means it checks if the specified types match before running the code, not while running the code.
-</rb>
+</div>
 
 ## How do I use TypeScript?
 
