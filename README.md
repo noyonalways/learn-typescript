@@ -1,14 +1,18 @@
-<h1 align='center'>Learn TypeScript</h1>
-
 <img src='https://i.ibb.co/MC8g3q4/typescript-banner.png' width='100%' alt='banner-image'>
 
 <div align="center" style='margin: 5px 0px'>
-   <img src="https://img.shields.io/github/contributors/noyonalways/learn-typescript" alt="github-contributors" >
-   <img src="https://img.shields.io/github/stars/noyonalways/learn-typescript?style=flat" alt="github-repo-stars">
-   <img src='https://img.shields.io/github/forks/noyonalways/learn-typescript?style=flat' alt='forks-repo'>
-   <img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
-   <img src='https://img.shields.io/github/directory-file-count/noyonalways/learn-typescript' alt='repo-files-count'>
-   <img src="https://img.shields.io/github/repo-size/noyonalways/learn-typescript" alt='repo-size'>
+  <a href='https://github.com/noyonalways/learn-typescript/fork'>
+    <img src='https://img.shields.io/badge/-Fork%20Repo-black.svg?style=flat-square&logo=github&color=555&logoColor=white' alt='fork-repo'>
+  </a>
+  <a href='https://github.com/noyonalways/learn-typescript'>
+    <img src='https://img.shields.io/badge/⭐%20Star%20Repo-gray' alt='star-repo'>
+  </a>
+  <img src="https://img.shields.io/github/contributors/noyonalways/learn-typescript" alt="github-contributors" >
+  <img src="https://img.shields.io/github/stars/noyonalways/learn-typescript?style=flat" alt="github-repo-stars">
+  <img src='https://img.shields.io/github/forks/noyonalways/learn-typescript?style=flat' alt='forks-repo'>
+  <img src='https://img.shields.io/github/followers/noyonalways?style=flat' alt='github-followers'>
+  <img src='https://img.shields.io/github/directory-file-count/noyonalways/learn-typescript' alt='repo-files-count'>
+  <img src="https://img.shields.io/github/repo-size/noyonalways/learn-typescript" alt='repo-size'>
 </div>
 
 ## What is TypeScript
