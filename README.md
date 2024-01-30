@@ -25,12 +25,28 @@
 
 ### Table of Contents:
 
-| Contents                                                            |
-| :------------------------------------------------------------------ |
-| [Welcome TypeScript](./markdowns/docs/ts-welcome.md)                |
-| [TS Introduction](./markdowns/docs/ts-introduction.md)              |
-| [TS Get Started & Installation](./markdowns/docs/ts-get-started.md) |
-| [TS Simple Types](./markdowns/docs/ts-simple-types.md)              |
+| Contents                                                                          |
+| :-------------------------------------------------------------------------------- |
+| [Welcome TypeScript](./markdowns/docs/ts-welcome.md)                              |
+| [TypeScript Introduction](./markdowns/docs/ts-introduction.md)                    |
+| [TypeScript Get Started & Installation](./markdowns/docs/ts-get-started.md)       |
+| [TypeScript Simple Types](./markdowns/docs/ts-simple-types.md)                    |
+| [TypeScript Special Types](./markdowns/docs/ts-special-types.md)                  |
+| [TypeScript Arrays](./markdowns/docs/ts-arrays.md)                                |
+| [TypeScript Tuples](./markdowns/docs/ts-tuples.md)                                |
+| [TypeScript Object Types](./markdowns/docs/ts-object-types.md)                    |
+| [TypeScript Enums](./markdowns/docs/ts-enums.md)                                  |
+| [TypeScript Aliases & Interfaces](./markdowns/docs/ts-type-aliases-interfaces.md) |
+| [TypeScript Union Types](./markdowns/docs/ts-union-types.md)                      |
+| [TypeScript Functions](./markdowns/docs/ts-functions.md)                          |
+| [TypeScript Casting](./markdowns/docs/ts-casting.md)                              |
+| [TypeScript Classes](./markdowns/docs/ts-classes.md)                              |
+| [TypeScript Basic Generics](./markdowns/docs/ts-basic-generics.md)                |
+| [TypeScript Utility Types](./markdowns/docs/ts-utility-types.md)                  |
+| [TypeScript Keyof](./markdowns/docs/ts-keyof.md)                                  |
+| [TypeScript Null & Undefined](./markdowns/docs/ts-null-undefined.md)              |
+| [TypeScript Definitely Typed](./markdowns/docs/ts-definitely-typed.md)            |
+| [TypeScript 5.x Updates](./markdowns/docs/ts-5-updates.md)                        |
 
 <br>
 
